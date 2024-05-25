@@ -1,37 +1,9 @@
-# EAD-Atributos
+# Olá, eu sou a Letícia! 👋
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Página da Letícia Tambani</title>
-</head>
-<body bgcolor="lightblue">
-    <h1 align="center">Olá, seja bem-vindo à minha webpage</h1>
-    <hr />
-    <p>Meu nome é Letícia Tambani e sou estudante de Análise e Desenvolvimento de Sistemas.</p>
-    <p>Tenho experiência em Business Intelligence e estou em busca de oportunidades de crescimento e aplicação prática de conhecimentos.</p>
-    <p>Moro em Palhoça, Santa Catarina, Brasil.</p>
-    <h2>Resumo</h2>
-    <p>Sou uma profissional dedicada em constante busca por oportunidades de crescimento e aplicação prática de conhecimentos. Atualmente, estudo Análise e Desenvolvimento de Sistemas, trazendo uma sólida experiência em Business Intelligence para minha trajetória.</p>
-    <p>Meu caminho profissional teve início como Gestora de Tráfego, onde concentrei meus esforços na elaboração de estratégias inteligentes para alcançar resultados empresariais eficazes. Com nove anos de experiência, desenvolvi habilidades essenciais em planejamento, monitoramento, orçamentação e gestão de tráfego, contribuindo diretamente para o sucesso das empresas em que atuei.</p>
-    <p>Atualmente, estou comprometida com meu desenvolvimento na área de tecnologia da informação, buscando expandir e aprimorar meus conhecimentos técnicos. Possuo familiaridade com uma variedade de ferramentas e tecnologias, incluindo GitHub para versionamento de código, Dev Tools para depuração e otimização, Figma para design de interfaces, além de ser proficiente em Lógica de Programação, JavaScript, CSS e HTML.</p>
-    <p>Além disso, estou continuamente buscando ampliar minha expertise, com certificações em Google Ads e Meta Ads, obtidas através de programas de business partner, e experiência em plataformas como maile.me e Mailchimp para gerenciamento de mailing. Tenho habilidades em configurações de Looker Studio, Super Metrics e conhecimento básico em Power BI.</p>
-    <p>Estou entusiasmada para explorar novas conexões e oportunidades para colaborar em projetos desafiadores e inovadores.</p>
-    <h2>Experiência</h2>
-    <p><strong>Agência Karambola</strong><br />
-    Gerente de tráfego<br />
-    Janeiro de 2018 - Setembro de 2023 (5 anos 9 meses)<br />
-    Palhoça, Santa Catarina, Brasil</p>
-    <h2>Formação acadêmica</h2>
-    <p><strong>Faculdade Municipal de Palhoça</strong><br />
-    Curso Superior de Tecnologia (CST), Análise e Desenvolvimento de Sistemas<br />
-    Janeiro de 2024 - Julho de 2026</p>
-    <p><strong>Anhanguera Educacional</strong><br />
-    Graduação, Publicidade e Propaganda<br />
-    Janeiro de 2013 - Dezembro de 2017</p>
-    <hr />
-    <p>Caso você encontre algum erro, tenha alguma crítica ou sugestão para a melhoria deste material, mande um e-mail para mim:<br />
-    leticia.tambani@example.com<br /><br />
-    Até a próxima.</p>
-</body>
-</html>
+
+Eu sou uma estudante de Análise e Desenvolvimento de Sistemas com experiência em Business Intelligence em busca de oportunidades de crescimento e aplicação prática de conhecimentos.
+## Minha atividade EAD
+
+Para essa atividade EAD, o desafio era criar uma página web simples usando apenas HTML, com foco em atributos, centralização de imagem e inclusao de blackground
+
+[👩‍💻 Clique aqui e veja o meu desafio!](https://letambani.github.io/EAD-Atributos/)
